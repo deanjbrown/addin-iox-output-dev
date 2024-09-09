@@ -1,0 +1,16 @@
+{
+  "name": "IOX Output Dev",
+  "supportEmail": "dbrown@cameramatics.com",
+  "version": "1.0",
+  "items": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/deanjbrown/addin-helloworld@master/hello-world.html",
+      "path": "AdministrationLink/",
+      "menuName": {
+        "en": "IOX Output Dev"
+      },
+      "icon": "https://cdn.jsdelivr.net/gh/Geotab/sdk-addin-samples@master/addin-iox-output/dist/images/icon.svg"
+    }
+  ],
+  "isSigned": false
+}
