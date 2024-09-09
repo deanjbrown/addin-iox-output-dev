@@ -1,3 +1,10 @@
+# IOX Output Dev
+
+Sends a message to a device, turning the IOX on or off, with a failsafe timer.
+
+To install this add-in, navigate to Settings => Add-Ins => Click the "+ Add-In" button.
+Paste the following into the Configuration:
+
 {
   "name": "IOX Output Dev",
   "supportEmail": "dbrown@cameramatics.com",
